@@ -9,7 +9,10 @@ require (
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/lib/pq v1.10.7
 	github.com/libragen/felix v0.0.0-20220127032949-4e1bcefdc575
+<<<<<<< HEAD
 	github.com/quic-go/quic-go v0.39.0
+=======
+>>>>>>> fddf5ebe8f9a051cb5cf4ca6b9136bf3bc23c3f0
 )
 
 require (
@@ -25,7 +28,11 @@ require (
 	github.com/go-playground/validator/v10 v10.11.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/goccy/go-json v0.9.11 // indirect
+<<<<<<< HEAD
 	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38 // indirect
+=======
+	github.com/google/go-cmp v0.5.8 // indirect
+>>>>>>> fddf5ebe8f9a051cb5cf4ca6b9136bf3bc23c3f0
 	github.com/gorilla/websocket v1.4.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/iancoleman/strcase v0.0.0-20190422225806-e506e3ef7365 // indirect
@@ -45,13 +52,19 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/olekukonko/tablewriter v0.0.1 // indirect
+<<<<<<< HEAD
 	github.com/onsi/ginkgo/v2 v2.9.5 // indirect
+=======
+>>>>>>> fddf5ebe8f9a051cb5cf4ca6b9136bf3bc23c3f0
 	github.com/pelletier/go-toml v1.2.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/pkg/errors v0.8.0 // indirect
 	github.com/pkg/sftp v1.10.0 // indirect
+<<<<<<< HEAD
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/quic-go/qtls-go1-20 v0.3.4 // indirect
+=======
+>>>>>>> fddf5ebe8f9a051cb5cf4ca6b9136bf3bc23c3f0
 	github.com/sirupsen/logrus v1.4.1 // indirect
 	github.com/spf13/afero v1.1.2 // indirect
 	github.com/spf13/cast v1.3.0 // indirect
@@ -59,6 +72,7 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/spf13/viper v1.4.0 // indirect
 	github.com/ugorji/go/codec v1.2.7 // indirect
+<<<<<<< HEAD
 	go.uber.org/mock v0.3.0 // indirect
 	golang.org/x/crypto v0.4.0 // indirect
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
@@ -68,6 +82,13 @@ require (
 	golang.org/x/term v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/tools v0.9.1 // indirect
+=======
+	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 // indirect
+	golang.org/x/net v0.4.0 // indirect
+	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/term v0.3.0 // indirect
+	golang.org/x/text v0.5.0 // indirect
+>>>>>>> fddf5ebe8f9a051cb5cf4ca6b9136bf3bc23c3f0
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
